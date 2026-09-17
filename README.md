@@ -7,3 +7,6 @@
 - Create Artifact Registry
 - Push Docker Image to Registry
 - Deploy Image on GKE Cluster
+
+Quick Notes:
+1. We can only create regional cluster in GKE autopilot mode not zonal as we don't see zonal tab in there.
